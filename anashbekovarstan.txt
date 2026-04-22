@@ -1,0 +1,4 @@
+Name: Arstan
+Group: CL102
+Favorite OS: Windows
+GitHub Username: aanasbekov-ops
