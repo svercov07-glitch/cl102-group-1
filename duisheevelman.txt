@@ -1,0 +1,4 @@
+Name: Elman
+Group: CL102
+Favorite OS: Ubunta
+GitHub Username: disheevelman...
